@@ -25,8 +25,11 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: print-davidmota
-          output_path: profile/trophy.svg
+          output_path: trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 📦 Move trophy to profile
+        run: mv trophy.svg profile/trophy.svg
 
       - name: 🚀 Commit trophy SVG
         run: |
