@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=printi-davidmota&label=SYSTEM%20VISITS&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=print-davidmota&label=SYSTEM%20VISITS&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -204,17 +204,17 @@ STATUS :: STANDBY
 
 <div align="center">
 
-<a href="https://github.com/printi-davidmota">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=printi-davidmota&show_icons=true&count_private=true&hide_border=true&bg_color=050B14&title_color=00D9FF&icon_color=00D9FF&text_color=8BE9FD"/>
+<a href="https://github.com/print-davidmota">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=print-davidmota&show_icons=true&count_private=true&hide_border=true&bg_color=050B14&title_color=00D9FF&icon_color=00D9FF&text_color=8BE9FD"/>
 </a>
 
-<a href="https://github.com/printi-davidmota">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=printi-davidmota&layout=compact&hide_border=true&bg_color=050B14&title_color=00D9FF&text_color=8BE9FD"/>
+<a href="https://github.com/print-davidmota">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=print-davidmota&layout=compact&hide_border=true&bg_color=050B14&title_color=00D9FF&text_color=8BE9FD"/>
 </a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=printi-davidmota&theme=transparent&hide_border=true&background=050B14&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=8BE9FD&dates=6C8499" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=print-davidmota&theme=transparent&hide_border=true&background=050B14&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=8BE9FD&dates=6C8499" alt="GitHub Streak"/>
 
 </div>
 
@@ -224,7 +224,7 @@ STATUS :: STANDBY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=printi-davidmota&bg_color=050B14&color=8BE9FD&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=print-davidmota&bg_color=050B14&color=8BE9FD&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
 
 </div>
 
@@ -234,7 +234,7 @@ STATUS :: STANDBY
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=printi-davidmota&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=print-davidmota&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
@@ -277,7 +277,7 @@ STATUS :: STANDBY
 <img src="https://img.shields.io/badge/Email-050B14?style=for-the-badge&logo=gmail&logoColor=00D9FF"/>
 </a>
 
-<a href="https://github.com/printi-davidmota">
+<a href="https://github.com/print-davidmota">
 <img src="https://img.shields.io/badge/GitHub-050B14?style=for-the-badge&logo=github&logoColor=00D9FF"/>
 </a>
 
