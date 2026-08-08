@@ -15,6 +15,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: 📁 Prepare output directory
+        run: mkdir -p dist
+
       - name: 🏆 Generate trophies
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
