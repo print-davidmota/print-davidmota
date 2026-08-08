@@ -24,8 +24,8 @@
 ╠══════════════════════════════════════════════════════════╣
 ║ STATUS      :: ONLINE                                    ║
 ║ ROLE        :: ADS STUDENT                               ║
-║ LOCATION    :: BRAZIL 🇧🇷                                ║
-║ MISSION     :: EM BUSCA DO NOVO                          ║
+║ LOCATION    :: BRAZIL 🇧🇷                                 ║
+║ MISSION     :: IN SEARCH OF THE NEW                      ║
 ║ FOCUS       :: SOFTWARE • AI • ARCHITECTURE              ║
 ╚══════════════════════════════════════════════════════════╝
 
@@ -46,7 +46,7 @@ SYSTEM READY.
 
 **Estudante de Análise e Desenvolvimento de Sistemas**
 
-> Em busca do novo.
+> In search of the new.
 
 Sou estudante de **ADS** e entusiasta de tecnologia, desenvolvimento de software e inteligência artificial.
 Atualmente estou construindo minha base como desenvolvedor, explorando diferentes tecnologias e buscando compreender não apenas **como criar software**, mas também como projetar sistemas melhores, escaláveis e inteligentes.
@@ -314,9 +314,9 @@ STATUS :: STANDBY
 ```text
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║                 "EM BUSCA DO NOVO."                     ║
+║                "IN SEARCH OF THE NEW!."                  ║
 ║                                                          ║
-║        BUILD  •  LEARN  •  CREATE  •  REPEAT            ║
+║        BUILD  •  LEARN  •  CREATE  •  REPEAT             ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
