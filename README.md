@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=%3E+Initializing+David_Mota.exe...;%3E+Student+%7C+ADS;%3E+Exploring+Software+%26+Artificial+Intelligence;%3E+Building+the+future%2C+one+line+at+a+time.;%3E+Em+busca+do+novo." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=%3E+Initializing+David_Mota.exe...;%3E+Student+%7C+ADS;%3E+Exploring+Software+%26+Artificial+Intelligence;%3E+Building+the+future%2C+one+line+at+a+time.;%3E+in+search+of+the+new." alt="Typing Animation"/>
 
 <br>
 
