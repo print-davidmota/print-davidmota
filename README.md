@@ -234,7 +234,13 @@ STATUS :: STANDBY
 
 <div align="center">
 
-### `GITHUB TROPHIES // INITIALIZING...`
+### `GITHUB TROPHIES // ACHIEVEMENTS`
+
+<img
+  src="./profile/trophy.svg"
+  width="100%"
+  alt="GitHub Trophies"
+/>
 
 </div>
 
