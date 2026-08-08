@@ -15,7 +15,7 @@ jobs:
       - name: 🐍 Generate contribution graph
         uses: Platane/snk@v3
         with:
-          github_user_name: printi-davidmota
+          github_user_name: print-davidmota
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=00D9FF&color_dots=#0B1F33,#123A52,#007C91,#00AFC4,#00D9FF
             dist/github-contribution-grid-snake-dark.svg?color_snake=00D9FF&color_dots=#050B14,#0B1F33,#123A52,#007C91,#00D9FF
