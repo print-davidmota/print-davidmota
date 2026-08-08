@@ -234,11 +234,7 @@ STATUS :: STANDBY
 
 <div align="center">
 
-<img
-  src="https://github-profile-trophy-ruby.vercel.app/?username=print-davidmota&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"
-  width="100%"
-  alt="GitHub Trophies"
-/>
+### `GITHUB TROPHIES // INITIALIZING...`
 
 </div>
 
