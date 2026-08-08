@@ -207,13 +207,13 @@ STATUS :: STANDBY
 ### `SYSTEM METRICS // GITHUB PERFORMANCE`
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=print-davidmota&show_icons=true&hide_border=true&bg_color=050B14&title_color=00D9FF&text_color=8BE9FD&icon_color=00D9FF&ring_color=00D9FF&include_all_commits=true&count_private=true"
+  src="./profile/stats.svg"
   width="49%"
   alt="GitHub Statistics"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=print-davidmota&layout=compact&hide_border=true&bg_color=050B14&title_color=00D9FF&text_color=8BE9FD&icon_color=00D9FF&langs_count=8"
+  src="./profile/top-langs.svg"
   width="49%"
   alt="Top Languages"
 />
@@ -221,7 +221,7 @@ STATUS :: STANDBY
 <br><br>
 
 <img
-  src="https://streak-stats.demolab.com/?user=print-davidmota&theme=transparent&hide_border=true&background=050B14&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=8BE9FD&dates=6B7C93&currStreakNum=E8FBFF&sideNums=E8FBFF"
+  src="./profile/streak.svg"
   width="100%"
   alt="GitHub Contribution Streak"
 />
