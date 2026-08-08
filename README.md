@@ -204,17 +204,35 @@ STATUS :: STANDBY
 
 <div align="center">
 
-<a href="https://github.com/print-davidmota">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=print-davidmota&show_icons=true&count_private=true&hide_border=true&bg_color=050B14&title_color=00D9FF&icon_color=00D9FF&text_color=8BE9FD"/>
-</a>
+### `SYSTEM METRICS // GITHUB PERFORMANCE`
 
-<a href="https://github.com/print-davidmota">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=print-davidmota&layout=compact&hide_border=true&bg_color=050B14&title_color=00D9FF&text_color=8BE9FD"/>
-</a>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=print-davidmota&show_icons=true&hide_border=true&bg_color=050B14&title_color=00D9FF&text_color=8BE9FD&icon_color=00D9FF&ring_color=00D9FF&include_all_commits=true&count_private=true"
+  width="49%"
+  alt="GitHub Statistics"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=print-davidmota&layout=compact&hide_border=true&bg_color=050B14&title_color=00D9FF&text_color=8BE9FD&icon_color=00D9FF&langs_count=8"
+  width="49%"
+  alt="Top Languages"
+/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=print-davidmota&theme=transparent&hide_border=true&background=050B14&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=8BE9FD&dates=6C8499" alt="GitHub Streak"/>
+<img
+  src="https://streak-stats.demolab.com/?user=print-davidmota&theme=transparent&hide_border=true&background=050B14&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=8BE9FD&dates=6B7C93&currStreakNum=E8FBFF&sideNums=E8FBFF"
+  width="100%"
+  alt="GitHub Contribution Streak"
+/>
+
+<br><br>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=print-davidmota&bg_color=050B14&color=8BE9FD&line=00D9FF&point=E8FBFF&area_color=0B1F33&area=true&hide_border=true&custom_title=SYSTEM%20ACTIVITY%20%2F%2F%20LAST%2031%20DAYS"
+  width="100%"
+  alt="GitHub Activity Graph"
+/>
 
 </div>
 
