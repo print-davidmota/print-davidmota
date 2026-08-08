@@ -246,7 +246,24 @@ STATUS :: STANDBY
 
 ### `NEURAL ACTIVITY // CONTRIBUTION SNAKE`
 
-<img src="https://raw.githubusercontent.com/printi-davidmota/printi-davidmota/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/print-davidmota/print-davidmota/refs/heads/gh-pages/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/print-davidmota/print-davidmota/refs/heads/gh-pages/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/print-davidmota/print-davidmota/refs/heads/gh-pages/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+
+</picture>
 
 </div>
 
