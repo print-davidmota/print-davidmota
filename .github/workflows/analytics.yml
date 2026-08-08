@@ -1,0 +1,59 @@
+name: 📊 Generate GitHub Analytics
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    name: Generate Analytics SVGs
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v6
+
+      - name: 📁 Prepare output directory
+        run: mkdir -p profile
+
+      - name: 📊 Generate GitHub Stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: >-
+            username=print-davidmota&show_icons=true&hide_border=true&bg_color=050B14&title_color=00D9FF&text_color=8BE9FD&icon_color=00D9FF&ring_color=00D9FF&include_all_commits=true&count_private=false
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 💻 Generate Top Languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: >-
+            username=print-davidmota&layout=compact&hide_border=true&bg_color=050B14&title_color=00D9FF&text_color=8BE9FD&icon_color=00D9FF&langs_count=8
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🔥 Generate Contribution Streak
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: >-
+            user=print-davidmota&theme=transparent&hide_border=true&background=050B14&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=8BE9FD&dates=6B7C93&currStreakNum=E8FBFF&sideNums=E8FBFF&disable_animations=true
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🚀 Commit analytics SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/stats.svg profile/top-langs.svg profile/streak.svg
+
+          git diff --cached --quiet || git commit -m "Update GitHub analytics"
+
+          git push
